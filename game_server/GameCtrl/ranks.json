@@ -1,0 +1,52 @@
+[
+    {
+        "score": 250, 
+        "name": "Alfred", 
+        "addr": "153.159.164.62"
+    }, 
+    {
+        "score": 200, 
+        "name": "William", 
+        "addr": "114.158.94.180"
+    }, 
+    {
+        "score": 150, 
+        "name": "Kenwood", 
+        "addr": "153.159.164.62"
+    }, 
+    {
+        "score": 115, 
+        "name": "Player", 
+        "addr": "106.132.14.96"
+    }, 
+    {
+        "score": 100, 
+        "name": "Jhon", 
+        "addr": "153.159.164.62"
+    }, 
+    {
+        "score": 90, 
+        "name": "Stuart", 
+        "addr": "114.158.94.180"
+    }, 
+    {
+        "score": 87, 
+        "name": "Player", 
+        "addr": "106.132.14.96"
+    }, 
+    {
+        "score": 80, 
+        "name": "Charles", 
+        "addr": "114.158.94.180"
+    }, 
+    {
+        "score": 70, 
+        "name": "Thomas", 
+        "addr": "153.154.102.204"
+    }, 
+    {
+        "score": 60, 
+        "name": "Michel", 
+        "addr": "153.159.164.62"
+    }
+]
